@@ -1,5 +1,4 @@
 
-import React from 'react';
 import { Mail, MapPin, Compass, ShieldCheck, ShoppingBag, ArrowRight } from 'lucide-react';
 
 export default function App() {
